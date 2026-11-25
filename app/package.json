@@ -1,0 +1,46 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/dom": "^10.4.2",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.3",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "prestart": "node scripts/translate-products.js && node scripts/sync-products.js",
+    "start": "node scripts/start-dev.js",
+    "prebuild": "node scripts/translate-products.js && node scripts/sync-products.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "preapi": "node scripts/translate-products.js && node scripts/sync-products.js",
+    "translate:products": "node scripts/translate-products.js",
+    "api": "node server/index.js",
+    "start:production": "node server/index.js"
+  },
+  "proxy": "http://localhost:5000",
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
