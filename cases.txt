@@ -1,0 +1,68 @@
+DELHAIZE STOREFRONT - 8 DEMO CASES
+==================================
+
+CASE 1 - Allergy filter marks unsafe products
+  1. On the main page click "Allergies" (next to "73 products").
+  2. Select "Milk".
+  3. Products with milk (cheese, pesto, yoghurt...) get a red border and a red
+     "Allergy: Milk" badge. The Allergies button shows a red counter "1".
+  Result: unsafe products are visible at a glance, nothing is hidden.
+
+CASE 2 - The AI bot knows your allergy
+  1. Select "Milk" in the Allergies filter.
+  2. Open the chat and type: "Do I have any allergies?" or "Make me a pasta dinner for 20 EUR".
+  3. The bot builds the list without milk products and mentions the allergy.
+  Result: the selected allergies are sent with every chat message.
+
+CASE 3 - Server safety net for the AI
+  1. Keep "Milk" selected and ask: "Add pesto to my basket".
+  2. Even if the AI tries to add it, the server removes conflicting products
+     and replies that it left them out because of your allergies.
+  Result: the allergy rule is enforced, not just suggested.
+
+CASE 4 - Multiple allergies persist after reload
+  1. Select "Gluten", "Peanuts" and "Milk".
+  2. Reload the page (F5).
+  3. The selection and red marking are still there (stored in the browser).
+  Result: you set your allergies once.
+
+CASE 5 - Product page warning
+  1. With "Milk" selected, open a product that contains milk.
+  2. A red banner shows: "Not suitable for your allergies: Milk".
+  Result: the warning also appears on the detail page.
+
+CASE 6 - Basket with several lists and combined allergens
+  1. Add milk manually with "+" (the card now shows 1 with - / +).
+  2. Ask the bot: "Tomorrow is my birthday, I want to shop for 30 euro".
+  3. Then ask: "Add everything for bolognese". It becomes a separate list.
+  4. Open the basket: the "ALLERGIES:" row combines allergens from all products;
+     basket lines that conflict with your selection are marked red.
+  Result: each request is its own list, and allergens are visible in one place.
+
+CASE 7 - Editing one list without touching the rest
+  1. In the basket click "Remove plan" on the bolognese list.
+  2. The birthday list and the manually added milk stay.
+  3. Click "Clear basket" at the bottom to remove everything instantly.
+  Result: lists are independent.
+
+==================================
+4 PROMPTS FOR THE AI ON THE PRESENTATION
+==================================
+
+PROMPT 1 - Budget shopping list (works with any allergies selected)
+  "Tomorrow is my birthday, I want to shop for 30 euro: snacks, drinks and something sweet."
+
+PROMPT 2 - Separate list + allergy awareness (select Milk first)
+  "Add everything I need for a lasagna, and avoid anything I'm allergic to."
+
+PROMPT 3 - Question about the catalogue, no basket changes
+  "Which pasta and sauce in the shop are safe if I'm allergic to gluten?"
+
+PROMPT 4 - Editing the basket with context (ask after prompt 1 or 2)
+  "Replace the most expensive item in the last list with a cheaper alternative, and remove the drinks."
+
+CASE 8 - Voice input and conversational questions
+  1. Click the microphone in the chat and say: "Which pasta is gluten-free?"
+  2. The text appears in the input; send it.
+  3. Ask a follow-up: "And which one is cheaper?" - the bot remembers the conversation.
+  Result: voice + context-aware answers without changing the basket.

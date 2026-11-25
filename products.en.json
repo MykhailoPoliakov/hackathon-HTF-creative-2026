@@ -1,0 +1,4841 @@
+[
+  {
+    "sku": "DH-10041",
+    "product_naam": "Spaghetti No. 5",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 500,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 500,
+      "weergave": "500 g"
+    },
+    "prijs": {
+      "bedrag": 1.19,
+      "valuta": "EUR",
+      "bron_tekst": "1.19"
+    },
+    "categorie": [
+      "Food",
+      "Pasta and rice",
+      "Pasta"
+    ],
+    "omschrijving": "Classic spaghetti made with durum wheat semolina.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "durum wheat semolina",
+      "water"
+    ],
+    "ingredienten_bron_tekst": "durum wheat semolina, water",
+    "allergenen": {
+      "bevat": [
+        "gluten"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 358,
+      "vet_g": 1.5,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": 71,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": 12,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 358 kcal, protein 12g, carbohydrates 71g, fat 1.5g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Store in a cool, dry place",
+    "herkomst": "Italy",
+    "laatst_bijgewerkt": "2024-03-11",
+    "foto": {
+      "url": "/product-images/DH-10041.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:(Pasta)_by_David_Adam_Kess_(pic.2).jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "David Adam Kess",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Spaghetti No. 5; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": [
+      "DH-10043"
+    ]
+  },
+  {
+    "sku": "DH-10042",
+    "product_naam": "Penne Rigate",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 500,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 500,
+      "weergave": "500 g"
+    },
+    "prijs": {
+      "bedrag": 1.19,
+      "valuta": "EUR",
+      "bron_tekst": "1,19"
+    },
+    "categorie": [
+      "Pasta"
+    ],
+    "omschrijving": "Penne rigate. Ingredients according to the source file: durum wheat semolina.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "durum wheat semolina"
+    ],
+    "ingredienten_bron_tekst": "durum wheat semolina",
+    "allergenen": {
+      "bevat": [
+        "gluten"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": null,
+    "laatst_bijgewerkt": "2022-08-04",
+    "foto": {
+      "url": "/product-images/DH-10042.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Penne_rigate_con_salsa_de_carne_en_proceso_de_cocci%C3%B3n_en_olla_dom%C3%A9stica.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Horacio Cambeiro",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Penne Rigate; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-10043",
+    "product_naam": "Spaghetti No. 5",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 500,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 500,
+      "weergave": "0.5 kg"
+    },
+    "prijs": {
+      "bedrag": 1.19,
+      "valuta": "EUR",
+      "bron_tekst": "1.19"
+    },
+    "categorie": [
+      "Pasta"
+    ],
+    "omschrijving": "Classic spaghetti.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "durum wheat semolina",
+      "water"
+    ],
+    "ingredienten_bron_tekst": "durum wheat semolina, water",
+    "allergenen": {
+      "bevat": [
+        "gluten"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": 358,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "358 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Italy",
+    "laatst_bijgewerkt": "2021-11-30",
+    "foto": {
+      "url": "/product-images/DH-10043.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:(Pasta)_by_David_Adam_Kess_(pic.2).jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "David Adam Kess",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Spaghetti No. 5; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": [
+      "DH-10041"
+    ]
+  },
+  {
+    "sku": "DH-10055",
+    "product_naam": "Wholegrain spaghetti",
+    "merk": "Delhaize Bio",
+    "inhoud": {
+      "hoeveelheid": 500,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 500,
+      "weergave": "500 g"
+    },
+    "prijs": {
+      "bedrag": 2.09,
+      "valuta": "EUR",
+      "bron_tekst": "2.09"
+    },
+    "categorie": [
+      "Food",
+      "Organic"
+    ],
+    "omschrijving": "Organic wholegrain spaghetti, rich in fibre.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "wholegrain durum wheat semolina*",
+      "water. *organic"
+    ],
+    "ingredienten_bron_tekst": "wholegrain durum wheat semolina*, water. *organic",
+    "allergenen": {
+      "bevat": [
+        "gluten"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 340,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": 62,
+      "suikers_g": null,
+      "vezels_g": 8,
+      "eiwit_g": 13,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 340 kcal, protein 13g, carbohydrates 62g, fibre 8g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Italy",
+    "laatst_bijgewerkt": "2025-01-22",
+    "foto": {
+      "url": "/product-images/DH-10055.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:(Pasta)_by_David_Adam_Kess_(pic.2).jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "David Adam Kess",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Wholegrain spaghetti; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-10061",
+    "product_naam": "Fresh tagliatelle",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 250,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 250,
+      "weergave": "250 g"
+    },
+    "prijs": {
+      "bedrag": 2.79,
+      "valuta": "EUR",
+      "bron_tekst": "2.79"
+    },
+    "categorie": [
+      "Fresh pasta"
+    ],
+    "omschrijving": "Fresh tagliatelle, ready in just a few minutes.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "wheat flour",
+      "eggs (28%)",
+      "water"
+    ],
+    "ingredienten_bron_tekst": "wheat flour, eggs (28%), water",
+    "allergenen": {
+      "bevat": [
+        "gluten",
+        "eggs"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten, egg",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 275,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 275 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated at max. 7 °C",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2025-09-02",
+    "foto": {
+      "url": "/product-images/DH-10061.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Dry_tagliatelle_pasta.jpg",
+      "licentie": "Public domain",
+      "licentie_url": null,
+      "maker": "Mathias Braux",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Fresh tagliatelle; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-10062",
+    "product_naam": "Fresh lasagne sheets",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 250,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 250,
+      "weergave": "250 g"
+    },
+    "prijs": {
+      "bedrag": 2.79,
+      "valuta": "EUR",
+      "bron_tekst": "2.79"
+    },
+    "categorie": [
+      "Fresh pasta"
+    ],
+    "omschrijving": "Fresh lasagne sheets. Ingredients according to the source file: wheat flour, egg, water.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "wheat flour",
+      "egg",
+      "water"
+    ],
+    "ingredienten_bron_tekst": "wheat flour, egg, water",
+    "allergenen": {
+      "bevat": [
+        "gluten",
+        "eggs"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten, egg",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": null,
+    "laatst_bijgewerkt": "2023-04-19",
+    "foto": {
+      "url": "/product-images/DH-10062.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Lasagne.png",
+      "licentie": "CC0",
+      "licentie_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "maker": "Popo le Chien",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Fresh lasagne sheets; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-11010",
+    "product_naam": "Tomato and basil pasta sauce",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 350,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 350,
+      "weergave": "350 g"
+    },
+    "prijs": {
+      "bedrag": 1.89,
+      "valuta": "EUR",
+      "bron_tekst": "1.89"
+    },
+    "categorie": [
+      "Food",
+      "Sauces"
+    ],
+    "omschrijving": "Pasta sauce made with Italian tomatoes and fresh basil.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "tomato (82%)",
+      "onion",
+      "olive oil",
+      "basil (1.5%)",
+      "salt",
+      "sugar"
+    ],
+    "ingredienten_bron_tekst": "tomato (82%), onion, olive oil, basil (1.5%), salt, sugar",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 62,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": 5.8,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": 0.9,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 62 kcal, sugars 5.8g, salt 0.9g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated after opening and use within 3 days",
+    "herkomst": "Italy",
+    "laatst_bijgewerkt": "2025-06-14",
+    "foto": {
+      "url": "/product-images/DH-11010.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Tomato_passata.jpg",
+      "licentie": "CC0",
+      "licentie_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "maker": "Tabby",
+      "credit": "Own work (Original text: its a photograph)",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Tomato and basil pasta sauce; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-11011",
+    "product_naam": "Bolognese pasta sauce",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 350,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 350,
+      "weergave": "350 g"
+    },
+    "prijs": {
+      "bedrag": 2.49,
+      "valuta": "EUR",
+      "bron_tekst": "2.49"
+    },
+    "categorie": [
+      "Sauces"
+    ],
+    "omschrijving": "Rich sauce with beef.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "tomato",
+      "beef (14%)",
+      "onion",
+      "carrot",
+      "celery",
+      "red wine",
+      "salt"
+    ],
+    "ingredienten_bron_tekst": "tomato, beef (14%), onion, carrot, celery, red wine, salt",
+    "allergenen": {
+      "bevat": [
+        "celery"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Celery",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": null,
+    "laatst_bijgewerkt": "2024-01-08",
+    "foto": {
+      "url": "/product-images/DH-11011.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Ragu.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Erikatrioschi",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Bolognese pasta sauce; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-11012",
+    "product_naam": "Pesto alla Genovese",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 190,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 190,
+      "weergave": "190 g"
+    },
+    "prijs": {
+      "bedrag": 3.29,
+      "valuta": "EUR",
+      "bron_tekst": "3.29"
+    },
+    "categorie": [
+      "Food",
+      "Sauces",
+      "Pesto"
+    ],
+    "omschrijving": "Pesto with basil and Italian cheese.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "basil (38%)",
+      "sunflower oil",
+      "Grana Padano (9%)",
+      "cashews",
+      "pine nuts",
+      "garlic",
+      "salt"
+    ],
+    "ingredienten_bron_tekst": "basil (38%), sunflower oil, Grana Padano (9%), cashews, pine nuts, garlic, salt",
+    "allergenen": {
+      "bevat": [
+        "milk",
+        "tree_nuts"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 465,
+      "vet_g": 44,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 465 kcal, fat 44g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Refrigerate after opening",
+    "herkomst": "Italy",
+    "laatst_bijgewerkt": "2023-07-25",
+    "foto": {
+      "url": "/product-images/DH-11012.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Pesto_alla_genovese.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "AlfonsoLucifredi",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Pesto alla Genovese; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-11013",
+    "product_naam": "Red pesto",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 190,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 190,
+      "weergave": "190 g"
+    },
+    "prijs": {
+      "bedrag": 3.29,
+      "valuta": "EUR",
+      "bron_tekst": "3.29"
+    },
+    "categorie": [
+      "Sauces"
+    ],
+    "omschrijving": "Pesto made with sun-dried tomatoes.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "sun-dried tomato",
+      "sunflower oil",
+      "cashews",
+      "Pecorino",
+      "garlic"
+    ],
+    "ingredienten_bron_tekst": "sun-dried tomato, sunflower oil, cashews, Pecorino, garlic",
+    "allergenen": {
+      "bevat": [
+        "milk",
+        "tree_nuts"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "See label",
+      "status": "source refers to the label; incomplete"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Italy",
+    "laatst_bijgewerkt": "2022-05-16",
+    "foto": {
+      "url": "/product-images/DH-11013.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Pesto_alla_Trapanese_-_Wiki_Loves_Sicilia.jpg",
+      "licentie": "CC0",
+      "licentie_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "maker": "8w9d",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Red pesto; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-11020",
+    "product_naam": "Tomato passata",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 700,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 700,
+      "weergave": "700 g"
+    },
+    "prijs": {
+      "bedrag": 1.49,
+      "valuta": "EUR",
+      "bron_tekst": "1.49"
+    },
+    "categorie": [
+      "Food",
+      "Tinned food"
+    ],
+    "omschrijving": "Strained tomatoes.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "tomato (99%)",
+      "salt"
+    ],
+    "ingredienten_bron_tekst": "tomato (99%), salt",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": "None",
+      "status": "not listed in source; ingredient check applied; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 32,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 32 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Italy",
+    "laatst_bijgewerkt": "2025-02-03",
+    "foto": {
+      "url": "/product-images/DH-11020.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Tomato_passata.jpg",
+      "licentie": "CC0",
+      "licentie_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "maker": "Tabby",
+      "credit": "Own work (Original text: its a photograph)",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Tomato passata; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-11021",
+    "product_naam": "Diced tomatoes",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 400,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 400,
+      "weergave": "400 g"
+    },
+    "prijs": {
+      "bedrag": 0.89,
+      "valuta": "EUR",
+      "bron_tekst": "0.89"
+    },
+    "categorie": [
+      "Tinned food"
+    ],
+    "omschrijving": "Diced tomatoes. Ingredients according to the source file: tomato, tomato juice, citric acid.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "tomato",
+      "tomato juice",
+      "citric acid"
+    ],
+    "ingredienten_bron_tekst": "tomato, tomato juice, citric acid",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": null,
+    "laatst_bijgewerkt": "2021-09-12",
+    "foto": {
+      "url": "/product-images/DH-11021.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Tomato_passata.jpg",
+      "licentie": "CC0",
+      "licentie_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "maker": "Tabby",
+      "credit": "Own work (Original text: its a photograph)",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Diced tomatoes; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-12001",
+    "product_naam": "Basmati rice",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 1000,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 1000,
+      "weergave": "1 kg"
+    },
+    "prijs": {
+      "bedrag": 3.49,
+      "valuta": "EUR",
+      "bron_tekst": "3.49"
+    },
+    "categorie": [
+      "Food",
+      "Pasta and rice",
+      "Rice"
+    ],
+    "omschrijving": "Long-grain basmati rice with a delicate aroma.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "basmati rice"
+    ],
+    "ingredienten_bron_tekst": "basmati rice",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": "None",
+      "status": "not listed in source; ingredient check applied; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 349,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": 78,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 349 kcal, carbohydrates 78g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Store in a dry place",
+    "herkomst": "India",
+    "laatst_bijgewerkt": "2025-04-10",
+    "foto": {
+      "url": "/product-images/DH-12001.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Grano_de_arroz_basmati_integral,_2020-06-12,_DD_01-11_FS.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Diego Delso",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Basmati rice; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-12002",
+    "product_naam": "Arborio risotto rice",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 500,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 500,
+      "weergave": "500 g"
+    },
+    "prijs": {
+      "bedrag": 2.19,
+      "valuta": "EUR",
+      "bron_tekst": "2.19"
+    },
+    "categorie": [
+      "Rice"
+    ],
+    "omschrijving": "Arborio risotto rice. Ingredients according to the source file: Arborio rice.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "Arborio rice"
+    ],
+    "ingredienten_bron_tekst": "Arborio rice",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Italy",
+    "laatst_bijgewerkt": "2023-02-27",
+    "foto": {
+      "url": "/product-images/DH-12002.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Arborio_Rice_(3769693295).jpg",
+      "licentie": "CC BY 2.0",
+      "licentie_url": "https://creativecommons.org/licenses/by/2.0",
+      "maker": "Steven Jackson from USA",
+      "credit": "Arborio Rice Uploaded by Schwäbin",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Arborio risotto rice; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-12003",
+    "product_naam": "Couscous",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 500,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 500,
+      "weergave": "500 g"
+    },
+    "prijs": {
+      "bedrag": 1.69,
+      "valuta": "EUR",
+      "bron_tekst": "1.69"
+    },
+    "categorie": [
+      "Food",
+      "Pasta and rice"
+    ],
+    "omschrijving": "Fine couscous, ready in 5 minutes.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "durum wheat semolina"
+    ],
+    "ingredienten_bron_tekst": "durum wheat semolina",
+    "allergenen": {
+      "bevat": [
+        "gluten"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 353,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 353 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": null,
+    "laatst_bijgewerkt": "2024-11-05",
+    "foto": {
+      "url": "/product-images/DH-12003.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Moroccan_cuscus,_from_Casablanca,_September_2018.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Lmmima",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Couscous; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-12004",
+    "product_naam": "Tricolour quinoa",
+    "merk": "Delhaize Bio",
+    "inhoud": {
+      "hoeveelheid": 400,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 400,
+      "weergave": "400 g"
+    },
+    "prijs": {
+      "bedrag": 4.39,
+      "valuta": "EUR",
+      "bron_tekst": "4.39"
+    },
+    "categorie": [
+      "Organic",
+      "Grains"
+    ],
+    "omschrijving": "Organic quinoa mix.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "quinoa* (white, red, black). *organically grown"
+    ],
+    "ingredienten_bron_tekst": "quinoa* (white, red, black). *organically grown",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": "None",
+      "status": "not listed in source; ingredient check applied; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 368,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": 7,
+      "eiwit_g": 14,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 368 kcal, protein 14g, fibre 7g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Peru",
+    "laatst_bijgewerkt": "2025-03-18",
+    "foto": {
+      "url": "/product-images/DH-12004.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Bolivian_tricolor_quinoa_(2).jpg",
+      "licentie": "CC0",
+      "licentie_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "maker": "Fumikas Sagisavas",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Tricolour quinoa; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-12010",
+    "product_naam": "Bulgur",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 500,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 500,
+      "weergave": "500 g"
+    },
+    "prijs": {
+      "bedrag": 1.89,
+      "valuta": "EUR",
+      "bron_tekst": "1.89"
+    },
+    "categorie": [
+      "Grains"
+    ],
+    "omschrijving": "Bulgur. Ingredients according to the source file: bulgur wheat.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "bulgur wheat"
+    ],
+    "ingredienten_bron_tekst": "bulgur wheat",
+    "allergenen": {
+      "bevat": [
+        "gluten"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Turkey",
+    "laatst_bijgewerkt": "2022-12-01",
+    "foto": {
+      "url": "/product-images/DH-12010.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Bulgur_lose_26022015_8675.jpg",
+      "licentie": "CC BY-SA 3.0 at",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+      "maker": "Johann Jaritz",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Bulgur; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-20011",
+    "product_naam": "Beef and pork mince",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 500,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 500,
+      "weergave": "500 g"
+    },
+    "prijs": {
+      "bedrag": 5.99,
+      "valuta": "EUR",
+      "bron_tekst": "5.99"
+    },
+    "categorie": [
+      "Meat"
+    ],
+    "omschrijving": "A mix of minced beef and pork.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "beef (50%)",
+      "pork (50%)"
+    ],
+    "ingredienten_bron_tekst": "beef (50%), pork (50%)",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": "None",
+      "status": "not listed in source; ingredient check applied; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 230,
+      "vet_g": 18,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": 18,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 230 kcal, protein 18g, fat 18g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated at max. 4 °C; use the same day",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2025-10-01",
+    "foto": {
+      "url": "/product-images/DH-20011.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Hackfleisch-1.jpg",
+      "licentie": "CC BY-SA 3.0",
+      "licentie_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "maker": "No machine-readable author provided. Rainer Zenz assumed (based on copyright claims).",
+      "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Beef and pork mince; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-20012",
+    "product_naam": "Chicken breast fillet",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 300,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 300,
+      "weergave": "300 g"
+    },
+    "prijs": {
+      "bedrag": 4.49,
+      "valuta": "EUR",
+      "bron_tekst": "4.49"
+    },
+    "categorie": [
+      "Meat",
+      "Poultry"
+    ],
+    "omschrijving": "Fresh, skinless chicken breast fillet.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "chicken breast fillet"
+    ],
+    "ingredienten_bron_tekst": "chicken breast fillet",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 110,
+      "vet_g": 1.5,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": 23,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 110 kcal, protein 23g, fat 1.5g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2025-10-01",
+    "foto": {
+      "url": "/product-images/DH-20012.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Simple_Chicken_Fillet_with_Rice_and_a_bowl_of_soup.jpg",
+      "licentie": "CC BY 2.0",
+      "licentie_url": "https://creativecommons.org/licenses/by/2.0",
+      "maker": "Sinchen.Lin",
+      "credit": "https://www.flickr.com/photos/linsinchen/32896951480/",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Chicken breast fillet; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-20013",
+    "product_naam": "Chicken fillet",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 2,
+      "eenheid": "item",
+      "aantal": 2,
+      "per_stuk": 1,
+      "weergave": "2 items"
+    },
+    "prijs": {
+      "bedrag": 4.49,
+      "valuta": "EUR",
+      "bron_tekst": "4.49"
+    },
+    "categorie": [
+      "Meat",
+      "Poultry"
+    ],
+    "omschrijving": "Chicken fillet. Ingredients according to the source file: chicken.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "chicken"
+    ],
+    "ingredienten_bron_tekst": "chicken",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2021-06-22",
+    "foto": {
+      "url": "/product-images/DH-20013.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Chicken_breasts_and_wing_quarters.jpg",
+      "licentie": "CC0",
+      "licentie_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "maker": "Harald the Bard",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Chicken fillet; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-20020",
+    "product_naam": "Salmon fillet",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 250,
+      "eenheid": "g",
+      "aantal": 2,
+      "per_stuk": 125,
+      "weergave": "2 × 125 g"
+    },
+    "prijs": {
+      "bedrag": 7.99,
+      "valuta": "EUR",
+      "bron_tekst": "7.99"
+    },
+    "categorie": [
+      "Fish"
+    ],
+    "omschrijving": "Boneless salmon fillet.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "salmon (Salmo salar)"
+    ],
+    "ingredienten_bron_tekst": "salmon (Salmo salar)",
+    "allergenen": {
+      "bevat": [
+        "fish"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Fish",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 208,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": 20,
+      "zout_g": null,
+      "omega3_g": 2.3,
+      "bron_tekst": "per 100 g: 208 kcal, protein 20g, omega-3 2.3g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": "Norway",
+    "laatst_bijgewerkt": "2025-09-28",
+    "foto": {
+      "url": "/product-images/DH-20020.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Salmon_filet_prepared_in_assited_steam_oven.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Ellywa",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Salmon fillet; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-20021",
+    "product_naam": "Cod loin",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 250,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 250,
+      "weergave": "250 g"
+    },
+    "prijs": {
+      "bedrag": 8.49,
+      "valuta": "EUR",
+      "bron_tekst": "8.49"
+    },
+    "categorie": [
+      "Fish"
+    ],
+    "omschrijving": "Cod loin.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "cod"
+    ],
+    "ingredienten_bron_tekst": "cod",
+    "allergenen": {
+      "bevat": [
+        "fish"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Fish",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Iceland",
+    "laatst_bijgewerkt": "2024-06-11",
+    "foto": {
+      "url": "/product-images/DH-20021.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Frozen_cod_fillet_(20240124).jpg",
+      "licentie": "CC0",
+      "licentie_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "maker": "Fumikas Sagisavas",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Cod loin; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-20030",
+    "product_naam": "Sliced cooked ham",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 150,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 150,
+      "weergave": "150 g"
+    },
+    "prijs": {
+      "bedrag": 2.99,
+      "valuta": "EUR",
+      "bron_tekst": "2.99"
+    },
+    "categorie": [
+      "Deli meat"
+    ],
+    "omschrijving": "Sliced cooked ham.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "pork ham (92%)",
+      "water",
+      "salt",
+      "dextrose",
+      "preservative E250"
+    ],
+    "ingredienten_bron_tekst": "pork ham (92%), water, salt, dextrose, preservative E250",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2023-10-14",
+    "foto": {
+      "url": "/product-images/DH-20030.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Sliced_cooked_ham.jpg",
+      "licentie": "CC BY 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by/4.0",
+      "maker": "Anna.Massini",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Sliced cooked ham; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-21001",
+    "product_naam": "Vegetarian burger",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 180,
+      "eenheid": "g",
+      "aantal": 2,
+      "per_stuk": 90,
+      "weergave": "2 × 90 g"
+    },
+    "prijs": {
+      "bedrag": 3.99,
+      "valuta": "EUR",
+      "bron_tekst": "3.99"
+    },
+    "categorie": [
+      "Vegetarian"
+    ],
+    "omschrijving": "Plant-based burger made with soy.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "soy protein (42%)",
+      "water",
+      "sunflower oil",
+      "onion",
+      "herbs",
+      "wheat protein"
+    ],
+    "ingredienten_bron_tekst": "soy protein (42%), water, sunflower oil, onion, herbs, wheat protein",
+    "allergenen": {
+      "bevat": [
+        "gluten",
+        "soybeans"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Soy, gluten",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 198,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": 17,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 198 kcal, protein 17g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": "The Netherlands",
+    "laatst_bijgewerkt": "2025-07-09",
+    "foto": {
+      "url": "/product-images/DH-21001.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Fancy_Veggie_Burger_and_Fries_-_Joe%27s_Burger_House_2024-07-07.jpg",
+      "licentie": "CC0",
+      "licentie_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "maker": "Andy Li",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Vegetarian burger; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-21002",
+    "product_naam": "Vegetarian balls",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 200,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 200,
+      "weergave": "200 g"
+    },
+    "prijs": {
+      "bedrag": 3.49,
+      "valuta": "EUR",
+      "bron_tekst": "3.49"
+    },
+    "categorie": [
+      "Vegetarian"
+    ],
+    "omschrijving": "Vegetarian balls. Ingredients according to the source file: soy, wheat protein, egg, herbs.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "soy",
+      "wheat protein",
+      "egg",
+      "herbs"
+    ],
+    "ingredienten_bron_tekst": "soy, wheat protein, egg, herbs",
+    "allergenen": {
+      "bevat": [
+        "gluten",
+        "eggs",
+        "soybeans"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": null,
+    "laatst_bijgewerkt": "2022-03-08",
+    "foto": {
+      "url": "/product-images/DH-21002.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Ikea_vegetarian_meatballs.jpg",
+      "licentie": "CC0",
+      "licentie_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "maker": "Apinanaivot",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Vegetarian balls; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-21003",
+    "product_naam": "Plain tofu",
+    "merk": "Delhaize Bio",
+    "inhoud": {
+      "hoeveelheid": 250,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 250,
+      "weergave": "250 g"
+    },
+    "prijs": {
+      "bedrag": 2.69,
+      "valuta": "EUR",
+      "bron_tekst": "2.69"
+    },
+    "categorie": [
+      "Organic"
+    ],
+    "omschrijving": "Organic tofu.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "water",
+      "soybeans* (35%)",
+      "coagulant. *organic"
+    ],
+    "ingredienten_bron_tekst": "water, soybeans* (35%), coagulant. *organic",
+    "allergenen": {
+      "bevat": [
+        "soybeans"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Soy",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 121,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": 12,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 121 kcal, protein 12g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2025-05-21",
+    "foto": {
+      "url": "/product-images/DH-21003.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Billyfoodmabodofu3.jpg",
+      "licentie": "CC BY-SA 3.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "maker": "Archon6812",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Plain tofu; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-21004",
+    "product_naam": "Falafel",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 200,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 200,
+      "weergave": "200 g"
+    },
+    "prijs": {
+      "bedrag": 3.19,
+      "valuta": "EUR",
+      "bron_tekst": "3.19"
+    },
+    "categorie": [
+      "Vegetarian"
+    ],
+    "omschrijving": "Chickpea balls with herbs.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "chickpeas (58%)",
+      "onion",
+      "parsley",
+      "garlic",
+      "sesame",
+      "cumin"
+    ],
+    "ingredienten_bron_tekst": "chickpeas (58%), onion, parsley, garlic, sesame, cumin",
+    "allergenen": {
+      "bevat": [
+        "sesame"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Lebanon",
+    "laatst_bijgewerkt": "2024-02-29",
+    "foto": {
+      "url": "/product-images/DH-21004.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Falafel_1.JPG",
+      "licentie": "CC0",
+      "licentie_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "maker": "Miansari66",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Falafel; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-21010",
+    "product_naam": "Vegetable stock cubes",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 10,
+      "eenheid": "item",
+      "aantal": 10,
+      "per_stuk": 1,
+      "weergave": "10 items"
+    },
+    "prijs": {
+      "bedrag": 1.39,
+      "valuta": "EUR",
+      "bron_tekst": "1.39"
+    },
+    "categorie": [
+      "Herbs and stock"
+    ],
+    "omschrijving": "Stock cubes made with vegetables.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "salt",
+      "yeast extract",
+      "chicken fat",
+      "carrot",
+      "leek",
+      "celery",
+      "turmeric"
+    ],
+    "ingredienten_bron_tekst": "salt, yeast extract, chicken fat, carrot, leek, celery, turmeric",
+    "allergenen": {
+      "bevat": [
+        "celery"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Celery",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Store in a dry place",
+    "herkomst": null,
+    "laatst_bijgewerkt": "2021-04-15",
+    "foto": {
+      "url": "/product-images/DH-21010.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Br%C3%BChw%C3%BCrfel-1.jpg",
+      "licentie": "CC BY-SA 3.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "maker": "Rainer Z ...",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Vegetable stock cubes; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-30001",
+    "product_naam": "Carrots",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 1000,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 1000,
+      "weergave": "1 kg"
+    },
+    "prijs": {
+      "bedrag": 1.29,
+      "valuta": "EUR",
+      "bron_tekst": "1.29"
+    },
+    "categorie": [
+      "Vegetables"
+    ],
+    "omschrijving": "Fresh carrots.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "carrot"
+    ],
+    "ingredienten_bron_tekst": "carrot",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": "None",
+      "status": "not listed in source; ingredient check applied; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 36,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 36 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2025-10-02",
+    "foto": {
+      "url": "/product-images/DH-30001.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:A_tray_of_fresh_carrots.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Bukky658",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Carrots; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-30002",
+    "product_naam": "Courgette",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 1,
+      "eenheid": "item",
+      "aantal": 1,
+      "per_stuk": 1,
+      "weergave": "per item"
+    },
+    "prijs": {
+      "bedrag": 1.09,
+      "valuta": "EUR",
+      "bron_tekst": "1.09"
+    },
+    "categorie": [
+      "Vegetables"
+    ],
+    "omschrijving": "Courgette. Ingredients according to the source file: courgette.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "courgette"
+    ],
+    "ingredienten_bron_tekst": "courgette",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Spain",
+    "laatst_bijgewerkt": "2025-10-02",
+    "foto": {
+      "url": "/product-images/DH-30002.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Zucchini_in_basket_2021_G1.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "George Chernilevsky",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Courgette; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-30003",
+    "product_naam": "Broccoli",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 500,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 500,
+      "weergave": "500 g"
+    },
+    "prijs": {
+      "bedrag": 2.19,
+      "valuta": "EUR",
+      "bron_tekst": "2.19"
+    },
+    "categorie": [
+      "Vegetables"
+    ],
+    "omschrijving": "Fresh broccoli florets.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "broccoli"
+    ],
+    "ingredienten_bron_tekst": "broccoli",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": "None",
+      "status": "not listed in source; ingredient check applied; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 34,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": 2.6,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 34 kcal, fibre 2.6g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2025-10-02",
+    "foto": {
+      "url": "/product-images/DH-30003.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Romanesco_broccoli_2025_G2.jpg",
+      "licentie": "CC BY 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by/4.0",
+      "maker": "George Chernilevsky",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Broccoli; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-30010",
+    "product_naam": "Frozen peas",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 750,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 750,
+      "weergave": "750 g"
+    },
+    "prijs": {
+      "bedrag": 1.99,
+      "valuta": "EUR",
+      "bron_tekst": "1.99"
+    },
+    "categorie": [
+      "Frozen",
+      "Vegetables"
+    ],
+    "omschrijving": "Frozen garden peas.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "peas"
+    ],
+    "ingredienten_bron_tekst": "peas",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": "None",
+      "status": "not listed in source; ingredient check applied; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 81,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 81 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Store at -18 °C",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2024-08-30",
+    "foto": {
+      "url": "/product-images/DH-30010.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Frozen_peas_(384924971).jpg",
+      "licentie": "CC BY 2.0",
+      "licentie_url": "https://creativecommons.org/licenses/by/2.0",
+      "maker": "Francis Bijl from Groningen, Netherlands",
+      "credit": "Frozen peas",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Frozen peas; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-30011",
+    "product_naam": "Frozen spinach",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 450,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 450,
+      "weergave": "450 g"
+    },
+    "prijs": {
+      "bedrag": 1.79,
+      "valuta": "EUR",
+      "bron_tekst": "1.79"
+    },
+    "categorie": [
+      "Frozen"
+    ],
+    "omschrijving": "Frozen spinach. Ingredients according to the source file: spinach.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "spinach"
+    ],
+    "ingredienten_bron_tekst": "spinach",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Store at -18 °C",
+    "herkomst": null,
+    "laatst_bijgewerkt": "2022-01-19",
+    "foto": {
+      "url": "/product-images/DH-30011.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Spinach_leaves_and_stems.jpg",
+      "licentie": "CC BY 3.0",
+      "licentie_url": "https://creativecommons.org/licenses/by/3.0",
+      "maker": "Nillerdk",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Frozen spinach; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-30012",
+    "product_naam": "Stir-fry vegetable mix",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 400,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 400,
+      "weergave": "400 g"
+    },
+    "prijs": {
+      "bedrag": 2.49,
+      "valuta": "EUR",
+      "bron_tekst": "2.49"
+    },
+    "categorie": [
+      "Frozen",
+      "Vegetables"
+    ],
+    "omschrijving": "Vegetable mix for stir-frying.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "carrot",
+      "bell pepper",
+      "soybean sprouts",
+      "onion",
+      "broccoli"
+    ],
+    "ingredienten_bron_tekst": "carrot, bell pepper, soybean sprouts, onion, broccoli",
+    "allergenen": {
+      "bevat": [
+        "soybeans"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Store at -18 °C",
+    "herkomst": null,
+    "laatst_bijgewerkt": "2023-11-07",
+    "foto": {
+      "url": "/product-images/DH-30012.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Mischgem%C3%BCse.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Moritz Kremer",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Stir-fry vegetable mix; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-30020",
+    "product_naam": "Chickpeas",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 400,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 400,
+      "weergave": "400 g"
+    },
+    "prijs": {
+      "bedrag": 0.99,
+      "valuta": "EUR",
+      "bron_tekst": "0.99"
+    },
+    "categorie": [
+      "Tinned food",
+      "Vegetables"
+    ],
+    "omschrijving": "Cooked chickpeas.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "chickpeas",
+      "water",
+      "salt"
+    ],
+    "ingredienten_bron_tekst": "chickpeas, water, salt",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": "None",
+      "status": "not listed in source; ingredient check applied; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 119,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": 7,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 119 kcal, protein 7g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Italy",
+    "laatst_bijgewerkt": "2025-01-30",
+    "foto": {
+      "url": "/product-images/DH-30020.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Hummus_with_spiced_chickpeas.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "HaJunkiyada",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Chickpeas; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-30021",
+    "product_naam": "White beans in tomato sauce",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 400,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 400,
+      "weergave": "400 g"
+    },
+    "prijs": {
+      "bedrag": 1.09,
+      "valuta": "EUR",
+      "bron_tekst": "1.09"
+    },
+    "categorie": [
+      "Tinned food"
+    ],
+    "omschrijving": "White beans in tomato sauce. Ingredients according to the source file: white beans, tomato purée, sugar, salt, modified starch.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "white beans",
+      "tomato purée",
+      "sugar",
+      "salt",
+      "modified starch"
+    ],
+    "ingredienten_bron_tekst": "white beans, tomato purée, sugar, salt, modified starch",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": null,
+    "laatst_bijgewerkt": "2021-07-23",
+    "foto": {
+      "url": "/product-images/DH-30021.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Baked_beans_in_tomato_sauce.jpg",
+      "licentie": "CC BY-SA 3.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "maker": "Mk2010",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of White beans in tomato sauce; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-40001",
+    "product_naam": "Semi-skimmed milk",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 1000,
+      "eenheid": "ml",
+      "aantal": 1,
+      "per_stuk": 1000,
+      "weergave": "1 L"
+    },
+    "prijs": {
+      "bedrag": 1.09,
+      "valuta": "EUR",
+      "bron_tekst": "1.09"
+    },
+    "categorie": [
+      "Dairy"
+    ],
+    "omschrijving": "Semi-skimmed milk.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "semi-skimmed milk"
+    ],
+    "ingredienten_bron_tekst": "semi-skimmed milk",
+    "allergenen": {
+      "bevat": [
+        "milk"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Milk",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 ml",
+      "energie_kcal": 46,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": 3.4,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 ml: 46 kcal, protein 3.4g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2025-10-03",
+    "foto": {
+      "url": "/product-images/DH-40001.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Dairy_Crest_Semi_Skimmed_Milk_Bottle.jpg",
+      "licentie": "CC BY 3.0",
+      "licentie_url": "https://creativecommons.org/licenses/by/3.0",
+      "maker": "Unisouth",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Semi-skimmed milk; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-40002",
+    "product_naam": "Greek yoghurt",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 500,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 500,
+      "weergave": "500 g"
+    },
+    "prijs": {
+      "bedrag": 2.29,
+      "valuta": "EUR",
+      "bron_tekst": "2.29"
+    },
+    "categorie": [
+      "Dairy",
+      "Yoghurt"
+    ],
+    "omschrijving": "Full-fat Greek yoghurt.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "pasteurised milk",
+      "milk protein",
+      "cultures"
+    ],
+    "ingredienten_bron_tekst": "pasteurised milk, milk protein, cultures",
+    "allergenen": {
+      "bevat": [
+        "milk"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Milk",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 115,
+      "vet_g": 8,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": 8,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 115 kcal, protein 8g, fat 8g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": "Greece",
+    "laatst_bijgewerkt": "2025-08-12",
+    "foto": {
+      "url": "/product-images/DH-40002.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Labneh_(5196911587).jpg",
+      "licentie": "CC BY 2.0",
+      "licentie_url": "https://creativecommons.org/licenses/by/2.0",
+      "maker": "Leslie Seaton from Seattle, WA, USA",
+      "credit": "Labneh",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Greek yoghurt; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-40003",
+    "product_naam": "Greek yoghurt 0%",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 500,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 500,
+      "weergave": "500 g"
+    },
+    "prijs": {
+      "bedrag": 2.29,
+      "valuta": "EUR",
+      "bron_tekst": "2.29"
+    },
+    "categorie": [
+      "Dairy"
+    ],
+    "omschrijving": "Greek yoghurt 0%. Ingredients according to the source file: milk, cultures.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "milk",
+      "cultures"
+    ],
+    "ingredienten_bron_tekst": "milk, cultures",
+    "allergenen": {
+      "bevat": [
+        "milk"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Milk",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": null,
+    "laatst_bijgewerkt": "2022-09-05",
+    "foto": {
+      "url": "/product-images/DH-40003.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Labneh_(5196911587).jpg",
+      "licentie": "CC BY 2.0",
+      "licentie_url": "https://creativecommons.org/licenses/by/2.0",
+      "maker": "Leslie Seaton from Seattle, WA, USA",
+      "credit": "Labneh",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Greek yoghurt 0%; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-40010",
+    "product_naam": "Grated mozzarella",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 200,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 200,
+      "weergave": "200 g"
+    },
+    "prijs": {
+      "bedrag": 2.59,
+      "valuta": "EUR",
+      "bron_tekst": "2.59"
+    },
+    "categorie": [
+      "Cheese"
+    ],
+    "omschrijving": "Grated mozzarella, ideal for gratins.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "mozzarella (milk)",
+      "potato starch"
+    ],
+    "ingredienten_bron_tekst": "mozzarella (milk), potato starch",
+    "allergenen": {
+      "bevat": [
+        "milk"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Milk",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 280,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 280 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": "Germany",
+    "laatst_bijgewerkt": "2024-12-16",
+    "foto": {
+      "url": "/product-images/DH-40010.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Benque_Viejo_mozzarella_shred_Oct_2024.png",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Asdfjrjjj",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Grated mozzarella; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-40011",
+    "product_naam": "Grated Parmigiano Reggiano",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 100,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 100,
+      "weergave": "100 g"
+    },
+    "prijs": {
+      "bedrag": 3.99,
+      "valuta": "EUR",
+      "bron_tekst": "3.99"
+    },
+    "categorie": [
+      "Cheese"
+    ],
+    "omschrijving": "Grated Parmigiano Reggiano PDO, aged for 18 months.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "milk",
+      "salt",
+      "rennet"
+    ],
+    "ingredienten_bron_tekst": "milk, salt, rennet",
+    "allergenen": {
+      "bevat": [
+        "milk"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Milk",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 392,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": 33,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 392 kcal, protein 33g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": "Italy",
+    "laatst_bijgewerkt": "2025-02-20",
+    "foto": {
+      "url": "/product-images/DH-40011.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Kraft_Seasoned_Grated_Parmesan_Cheese_(Sun-Dried_Tomato_%26_Basil,_Classic_Italian,_and_Hot_Pepper_Trio)_(16291961279).jpg",
+      "licentie": "CC BY-SA 2.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "maker": "theimpulsivebuy",
+      "credit": "Kraft Seasoned Grated Parmesan Cheese (Sun-Dried Tomato & Basil, Classic Italian, and Hot Pepper Trio)",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Grated Parmigiano Reggiano; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-40012",
+    "product_naam": "Sliced young cheese",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 200,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 200,
+      "weergave": "200 g"
+    },
+    "prijs": {
+      "bedrag": 3.19,
+      "valuta": "EUR",
+      "bron_tekst": "3.19"
+    },
+    "categorie": [
+      "Cheese"
+    ],
+    "omschrijving": "Sliced young cheese. Ingredients according to the source file: milk, salt, rennet, colour E160a.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "milk",
+      "salt",
+      "rennet",
+      "colour E160a"
+    ],
+    "ingredienten_bron_tekst": "milk, salt, rennet, colour E160a",
+    "allergenen": {
+      "bevat": [
+        "milk"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Milk",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "The Netherlands",
+    "laatst_bijgewerkt": "2023-05-30",
+    "foto": {
+      "url": "/product-images/DH-40012.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:White_cheddar_cheese_sliced_CNE.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "CNEcija12345",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Sliced young cheese; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-40020",
+    "product_naam": "Oat drink",
+    "merk": "Alpro",
+    "inhoud": {
+      "hoeveelheid": 1000,
+      "eenheid": "ml",
+      "aantal": 1,
+      "per_stuk": 1000,
+      "weergave": "1 L"
+    },
+    "prijs": {
+      "bedrag": 2.39,
+      "valuta": "EUR",
+      "bron_tekst": "2.39"
+    },
+    "categorie": [
+      "Dairy alternatives"
+    ],
+    "omschrijving": "Unsweetened oat drink.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "water",
+      "oats (10%)",
+      "sunflower oil",
+      "calcium",
+      "salt",
+      "vitamins"
+    ],
+    "ingredienten_bron_tekst": "water, oats (10%), sunflower oil, calcium, salt, vitamins",
+    "allergenen": {
+      "bevat": [
+        "gluten"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten (oats)",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 ml",
+      "energie_kcal": 42,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 ml: 42 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated after opening; use within 5 days",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2025-06-30",
+    "foto": {
+      "url": "/product-images/DH-40020.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Oat_milk_glass_and_bottles.jpg",
+      "licentie": "CC BY 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by/4.0",
+      "maker": "Shisma",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Oat drink; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-40030",
+    "product_naam": "Butter",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 250,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 250,
+      "weergave": "250 g"
+    },
+    "prijs": {
+      "bedrag": 2.89,
+      "valuta": "EUR",
+      "bron_tekst": "2.89"
+    },
+    "categorie": [
+      "Dairy"
+    ],
+    "omschrijving": "Butter. Ingredients according to the source file: cream (milk), salt.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "cream (milk)",
+      "salt"
+    ],
+    "ingredienten_bron_tekst": "cream (milk), salt",
+    "allergenen": {
+      "bevat": [
+        "milk"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Milk",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 740,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 740 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2022-11-11",
+    "foto": {
+      "url": "/product-images/DH-40030.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:2023_Mas%C5%82o_w_maselniczce.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Jacek Halicki",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Butter; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-40040",
+    "product_naam": "Free-range eggs",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 6,
+      "eenheid": "item",
+      "aantal": 6,
+      "per_stuk": 1,
+      "weergave": "6 items"
+    },
+    "prijs": {
+      "bedrag": 2.49,
+      "valuta": "EUR",
+      "bron_tekst": "2.49"
+    },
+    "categorie": [
+      "Eggs"
+    ],
+    "omschrijving": "Free-range eggs.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "hen eggs"
+    ],
+    "ingredienten_bron_tekst": "hen eggs",
+    "allergenen": {
+      "bevat": [
+        "eggs"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Egg",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per egg",
+      "energie_kcal": 78,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": 6.5,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per protein: 78 kcal, protein 6.5g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2025-09-15",
+    "foto": {
+      "url": "/product-images/DH-40040.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:The_Happy_Egg_Company_Free_Range_eggs_and_carton.png",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "The Happy Egg Company",
+      "credit": "https://happyegg.com/news/expanding-flock-ozark-woodlands/ (archived at https://perma.cc/3WFF-QBTM)",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Free-range eggs; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-50001",
+    "product_naam": "Multigrain bread",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 800,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 800,
+      "weergave": "800 g"
+    },
+    "prijs": {
+      "bedrag": 2.49,
+      "valuta": "EUR",
+      "bron_tekst": "2.49"
+    },
+    "categorie": [
+      "Bakery"
+    ],
+    "omschrijving": "Fresh multigrain bread.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "wheat flour",
+      "water",
+      "seeds (sesame, linseed, sunflower seed)",
+      "yeast",
+      "salt"
+    ],
+    "ingredienten_bron_tekst": "wheat flour, water, seeds (sesame, linseed, sunflower seed), yeast, salt",
+    "allergenen": {
+      "bevat": [
+        "gluten",
+        "sesame"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten, sesame",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 248,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": 6,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 248 kcal, fibre 6g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Store in a dry place",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2025-10-03",
+    "foto": {
+      "url": "/product-images/DH-50001.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Multigrain_Bread_Mumbai_Delhi_Pune_Gujarat.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Danz Bread",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Multigrain bread; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-50002",
+    "product_naam": "Sliced white bread",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 800,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 800,
+      "weergave": "800 g"
+    },
+    "prijs": {
+      "bedrag": 1.89,
+      "valuta": "EUR",
+      "bron_tekst": "1.89"
+    },
+    "categorie": [
+      "Bakery"
+    ],
+    "omschrijving": "Sliced white bread. Ingredients according to the source file: wheat flour, water, yeast, salt.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "wheat flour",
+      "water",
+      "yeast",
+      "salt"
+    ],
+    "ingredienten_bron_tekst": "wheat flour, water, yeast, salt",
+    "allergenen": {
+      "bevat": [
+        "gluten"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": null,
+    "laatst_bijgewerkt": "2021-10-08",
+    "foto": {
+      "url": "/product-images/DH-50002.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Sliced_sandwich_breads_2021-8-28.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Baoothersks",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Sliced white bread; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-50010",
+    "product_naam": "Chocolate spread",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 400,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 400,
+      "weergave": "400 g"
+    },
+    "prijs": {
+      "bedrag": 2.79,
+      "valuta": "EUR",
+      "bron_tekst": "2.79"
+    },
+    "categorie": [
+      "Breakfast",
+      "Spreads"
+    ],
+    "omschrijving": "Smooth chocolate spread.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "sugar",
+      "vegetable oil",
+      "hazelnuts (13%)",
+      "low-fat cocoa powder",
+      "milk powder"
+    ],
+    "ingredienten_bron_tekst": "sugar, vegetable oil, hazelnuts (13%), low-fat cocoa powder, milk powder",
+    "allergenen": {
+      "bevat": [
+        "milk",
+        "tree_nuts"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 539,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": 56,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 539 kcal, sugars 56g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Store in a dry place",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2023-01-26",
+    "foto": {
+      "url": "/product-images/DH-50010.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Chocolate_Spread.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Gaurav Dhwaj Khadka",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Chocolate spread; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-50011",
+    "product_naam": "Strawberry jam",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 450,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 450,
+      "weergave": "450 g"
+    },
+    "prijs": {
+      "bedrag": 2.19,
+      "valuta": "EUR",
+      "bron_tekst": "2.19"
+    },
+    "categorie": [
+      "Breakfast"
+    ],
+    "omschrijving": "Strawberry jam. Ingredients according to the source file: strawberries (50%), sugar, gelling agent pectin, citric acid.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "strawberries (50%)",
+      "sugar",
+      "gelling agent: pectin",
+      "citric acid"
+    ],
+    "ingredienten_bron_tekst": "strawberries (50%), sugar, gelling agent: pectin, citric acid",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": "None",
+      "status": "not listed in source; ingredient check applied; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": null,
+    "laatst_bijgewerkt": "2022-06-17",
+    "foto": {
+      "url": "/product-images/DH-50011.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Strawberry_jam_(home_preservation).jpg",
+      "licentie": "CC0",
+      "licentie_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "maker": "Nutrition, Food Safety & Health",
+      "credit": "https://www.flickr.com/photos/93936679@N05/35319530121/",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Strawberry jam; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-50020",
+    "product_naam": "Nut muesli",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 500,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 500,
+      "weergave": "500 g"
+    },
+    "prijs": {
+      "bedrag": 3.49,
+      "valuta": "EUR",
+      "bron_tekst": "3.49"
+    },
+    "categorie": [
+      "Breakfast cereal"
+    ],
+    "omschrijving": "Muesli with nuts and dried fruit.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "oat flakes",
+      "raisins",
+      "almonds (6%)",
+      "hazelnuts (5%)",
+      "sunflower seeds",
+      "wheat flakes"
+    ],
+    "ingredienten_bron_tekst": "oat flakes, raisins, almonds (6%), hazelnuts (5%), sunflower seeds, wheat flakes",
+    "allergenen": {
+      "bevat": [
+        "gluten",
+        "tree_nuts"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 412,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": 9,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 412 kcal, fibre 9g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Germany",
+    "laatst_bijgewerkt": "2024-04-23",
+    "foto": {
+      "url": "/product-images/DH-50020.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Cornflakes_in_bowl.jpg",
+      "licentie": "GFDL 1.2",
+      "licentie_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "maker": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Tamron 28-75mm f/2.8",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Nut muesli; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-50021",
+    "product_naam": "Cornflakes",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 375,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 375,
+      "weergave": "375 g"
+    },
+    "prijs": {
+      "bedrag": 2.09,
+      "valuta": "EUR",
+      "bron_tekst": "2.09"
+    },
+    "categorie": [
+      "Breakfast cereal"
+    ],
+    "omschrijving": "Cornflakes. Ingredients according to the source file: corn, sugar, salt, malt extract (barley), vitamins.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "corn",
+      "sugar",
+      "salt",
+      "malt extract (barley)",
+      "vitamins"
+    ],
+    "ingredienten_bron_tekst": "corn, sugar, salt, malt extract (barley), vitamins",
+    "allergenen": {
+      "bevat": [
+        "gluten"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten (barley)",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": null,
+    "laatst_bijgewerkt": "2021-12-29",
+    "foto": {
+      "url": "/product-images/DH-50021.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Cornflakes_in_bowl.jpg",
+      "licentie": "GFDL 1.2",
+      "licentie_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "maker": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Tamron 28-75mm f/2.8",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Cornflakes; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-60001",
+    "product_naam": "Extra virgin olive oil",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 500,
+      "eenheid": "ml",
+      "aantal": 1,
+      "per_stuk": 500,
+      "weergave": "500 ml"
+    },
+    "prijs": {
+      "bedrag": 6.49,
+      "valuta": "EUR",
+      "bron_tekst": "6.49"
+    },
+    "categorie": [
+      "Oil and vinegar"
+    ],
+    "omschrijving": "Extra virgin olive oil, first cold-pressed.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "extra virgin olive oil"
+    ],
+    "ingredienten_bron_tekst": "extra virgin olive oil",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": "None",
+      "status": "not listed in source; ingredient check applied; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 ml",
+      "energie_kcal": 824,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 ml: 824 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Store in a dark place",
+    "herkomst": "Spain",
+    "laatst_bijgewerkt": "2025-03-05",
+    "foto": {
+      "url": "/product-images/DH-60001.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:2023_Oliwa_z_oliwek_Garda_DOP_(1).jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Jacek Halicki",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Extra virgin olive oil; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-60002",
+    "product_naam": "Sunflower oil",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 1000,
+      "eenheid": "ml",
+      "aantal": 1,
+      "per_stuk": 1000,
+      "weergave": "1 L"
+    },
+    "prijs": {
+      "bedrag": 2.29,
+      "valuta": "EUR",
+      "bron_tekst": "2.29"
+    },
+    "categorie": [
+      "Oil and vinegar"
+    ],
+    "omschrijving": "Sunflower oil. Ingredients according to the source file: sunflower oil.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "sunflower oil"
+    ],
+    "ingredienten_bron_tekst": "sunflower oil",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": null,
+    "laatst_bijgewerkt": "2022-02-14",
+    "foto": {
+      "url": "/product-images/DH-60002.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Sunflower_oil_and_sunflower.jpg",
+      "licentie": "CC BY 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by/4.0",
+      "maker": "torange.biz",
+      "credit": "https://torange.biz/photo/32/HD/sunflower-oil-crude-unrefined-32723.jpgPublished on https://torange.biz/crude-sunflower-oil-unrefined-32723",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Sunflower oil; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-60010",
+    "product_naam": "Soy sauce",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 150,
+      "eenheid": "ml",
+      "aantal": 1,
+      "per_stuk": 150,
+      "weergave": "150 ml"
+    },
+    "prijs": {
+      "bedrag": 1.99,
+      "valuta": "EUR",
+      "bron_tekst": "1.99"
+    },
+    "categorie": [
+      "World cuisine"
+    ],
+    "omschrijving": "Fermented soy sauce.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "water",
+      "soybeans",
+      "wheat",
+      "salt"
+    ],
+    "ingredienten_bron_tekst": "water, soybeans, wheat, salt",
+    "allergenen": {
+      "bevat": [
+        "gluten",
+        "soybeans"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Soy, gluten",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "The Netherlands",
+    "laatst_bijgewerkt": "2024-09-19",
+    "foto": {
+      "url": "/product-images/DH-60010.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Soy_sauce_2.jpg",
+      "licentie": "CC BY-SA 2.0 kr",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en",
+      "maker": "국립국어원",
+      "credit": "https://krdicmedia.korean.go.kr/front/search/searchResultView.do?file_no=195432",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Soy sauce; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-60011",
+    "product_naam": "Satay sauce",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 300,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 300,
+      "weergave": "300 g"
+    },
+    "prijs": {
+      "bedrag": 2.69,
+      "valuta": "EUR",
+      "bron_tekst": "2.69"
+    },
+    "categorie": [
+      "World cuisine"
+    ],
+    "omschrijving": "Spicy peanut-based satay sauce.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "water",
+      "peanuts (24%)",
+      "sugar",
+      "soy sauce",
+      "coconut milk",
+      "chilli",
+      "garlic"
+    ],
+    "ingredienten_bron_tekst": "water, peanuts (24%), sugar, soy sauce, coconut milk, chilli, garlic",
+    "allergenen": {
+      "bevat": [
+        "peanuts",
+        "soybeans"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 236,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 236 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Refrigerate after opening",
+    "herkomst": "The Netherlands",
+    "laatst_bijgewerkt": "2023-08-21",
+    "foto": {
+      "url": "/product-images/DH-60011.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Sos_Kacang_(dengan_bumbu_dan_chili).jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Meandkancil2020",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Satay sauce; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-60012",
+    "product_naam": "Coconut milk",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 400,
+      "eenheid": "ml",
+      "aantal": 1,
+      "per_stuk": 400,
+      "weergave": "400 ml"
+    },
+    "prijs": {
+      "bedrag": 1.79,
+      "valuta": "EUR",
+      "bron_tekst": "1.79"
+    },
+    "categorie": [
+      "World cuisine"
+    ],
+    "omschrijving": "Coconut milk. Ingredients according to the source file: coconut extract (60%), water, stabiliser E435.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "coconut extract (60%)",
+      "water",
+      "stabiliser E435"
+    ],
+    "ingredienten_bron_tekst": "coconut extract (60%), water, stabiliser E435",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": "None",
+      "status": "not listed in source; ingredient check applied; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Thailand",
+    "laatst_bijgewerkt": "2022-04-02",
+    "foto": {
+      "url": "/product-images/DH-60012.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Coconut_milk_from_can01.JPG",
+      "licentie": "CC BY-SA 3.0",
+      "licentie_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "maker": "Meursault2004",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Coconut milk; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-60013",
+    "product_naam": "Red curry paste",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 114,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 114,
+      "weergave": "114 g"
+    },
+    "prijs": {
+      "bedrag": 2.39,
+      "valuta": "EUR",
+      "bron_tekst": "2.39"
+    },
+    "categorie": [
+      "World cuisine"
+    ],
+    "omschrijving": "Thai red curry paste.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "red chilli",
+      "lemongrass",
+      "garlic",
+      "galangal",
+      "shrimp paste",
+      "salt"
+    ],
+    "ingredienten_bron_tekst": "red chilli, lemongrass, garlic, galangal, shrimp paste, salt",
+    "allergenen": {
+      "bevat": [
+        "crustaceans",
+        "fish"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Crustaceans, fish",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Refrigerate after opening",
+    "herkomst": "Thailand",
+    "laatst_bijgewerkt": "2025-04-28",
+    "foto": {
+      "url": "/product-images/DH-60013.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Curry_pastes_Thailand_(cropped).JPG",
+      "licentie": "CC BY-SA 3.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "maker": "Helge Høifødt",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Red curry paste; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-60020",
+    "product_naam": "Pastry flour",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 1000,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 1000,
+      "weergave": "1 kg"
+    },
+    "prijs": {
+      "bedrag": 0.99,
+      "valuta": "EUR",
+      "bron_tekst": "0.99"
+    },
+    "categorie": [
+      "Baking"
+    ],
+    "omschrijving": "Pastry flour. Ingredients according to the source file: wheat flour.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "wheat flour"
+    ],
+    "ingredienten_bron_tekst": "wheat flour",
+    "allergenen": {
+      "bevat": [
+        "gluten"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2021-05-11",
+    "foto": {
+      "url": "/product-images/DH-60020.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Wheat-flour.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "هارون يحيى",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Pastry flour; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-60021",
+    "product_naam": "Granulated sugar",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 1000,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 1000,
+      "weergave": "1 kg"
+    },
+    "prijs": {
+      "bedrag": 1.49,
+      "valuta": "EUR",
+      "bron_tekst": "1.49"
+    },
+    "categorie": [
+      "Baking"
+    ],
+    "omschrijving": "Granulated sugar. Ingredients according to the source file: sugar.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "sugar"
+    ],
+    "ingredienten_bron_tekst": "sugar",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": "None",
+      "status": "not listed in source; ingredient check applied; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 400,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 400 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2024-07-04",
+    "foto": {
+      "url": "/product-images/DH-60021.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Sugar_2xmacro.jpg",
+      "licentie": "CC BY-SA 3.0",
+      "licentie_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "maker": "Lauri Andler (Phantom)",
+      "credit": "Photo taken by user",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Granulated sugar; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-70001",
+    "product_naam": "Plain crisps",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 200,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 200,
+      "weergave": "200 g"
+    },
+    "prijs": {
+      "bedrag": 1.79,
+      "valuta": "EUR",
+      "bron_tekst": "1.79"
+    },
+    "categorie": [
+      "Snacks"
+    ],
+    "omschrijving": "Plain crisps. Ingredients according to the source file: potatoes, sunflower oil, salt.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "potatoes",
+      "sunflower oil",
+      "salt"
+    ],
+    "ingredienten_bron_tekst": "potatoes, sunflower oil, salt",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 532,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": 1.2,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 532 kcal, salt 1.2g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2022-07-18",
+    "foto": {
+      "url": "/product-images/DH-70001.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Chipsletten_naturel.jpg",
+      "licentie": "CC BY-SA 3.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "maker": "FakirNL",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Plain crisps; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-70002",
+    "product_naam": "Mixed nuts",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 200,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 200,
+      "weergave": "200 g"
+    },
+    "prijs": {
+      "bedrag": 3.99,
+      "valuta": "EUR",
+      "bron_tekst": "3.99"
+    },
+    "categorie": [
+      "Snacks"
+    ],
+    "omschrijving": "A mix of roasted nuts.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "cashews",
+      "almonds",
+      "hazelnuts",
+      "pecans",
+      "salt"
+    ],
+    "ingredienten_bron_tekst": "cashews, almonds, hazelnuts, pecans, salt",
+    "allergenen": {
+      "bevat": [
+        "tree_nuts"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Nuts",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 614,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": 18,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 614 kcal, protein 18g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Store in a dry place",
+    "herkomst": null,
+    "laatst_bijgewerkt": "2025-05-08",
+    "foto": {
+      "url": "/product-images/DH-70002.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Mixed_nuts_and_dried_fruit.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "HaJunkiyada",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Mixed nuts; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-70010",
+    "product_naam": "Marshmallows",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 150,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 150,
+      "weergave": "150 g"
+    },
+    "prijs": {
+      "bedrag": 1.99,
+      "valuta": "EUR",
+      "bron_tekst": "1.99"
+    },
+    "categorie": [
+      "Sweets"
+    ],
+    "omschrijving": "Soft marshmallows.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "sugar",
+      "glucose syrup",
+      "gelatine",
+      "corn starch",
+      "flavouring"
+    ],
+    "ingredienten_bron_tekst": "sugar, glucose syrup, gelatine, corn starch, flavouring",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Germany",
+    "laatst_bijgewerkt": "2023-03-13",
+    "foto": {
+      "url": "/product-images/DH-70010.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:White_Marshmallows.jpg",
+      "licentie": "CC BY 2.0",
+      "licentie_url": "https://creativecommons.org/licenses/by/2.0",
+      "maker": "John Morgan",
+      "credit": "https://www.flickr.com/photos/24742305@N00/2256639109",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Marshmallows; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-70011",
+    "product_naam": "70% dark chocolate",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 100,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 100,
+      "weergave": "100 g"
+    },
+    "prijs": {
+      "bedrag": 1.89,
+      "valuta": "EUR",
+      "bron_tekst": "1.89"
+    },
+    "categorie": [
+      "Chocolate"
+    ],
+    "omschrijving": "70% dark chocolate. Ingredients according to the source file: cocoa mass, sugar, cocoa butter, emulsifier soy lecithin.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "cocoa mass",
+      "sugar",
+      "cocoa butter",
+      "emulsifier: soy lecithin"
+    ],
+    "ingredienten_bron_tekst": "cocoa mass, sugar, cocoa butter, emulsifier: soy lecithin",
+    "allergenen": {
+      "bevat": [
+        "soybeans"
+      ],
+      "kan_bevatten": [
+        "milk",
+        "tree_nuts"
+      ],
+      "bron_tekst": "Soy; may contain traces of nuts and milk",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 568,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 568 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2024-10-27",
+    "foto": {
+      "url": "/product-images/DH-70011.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Cooking_chocolate_with_packaging.jpg",
+      "licentie": "CC BY-SA 3.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "maker": "SKopp",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of 70% dark chocolate; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-70020",
+    "product_naam": "Vanilla ice cream",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 1000,
+      "eenheid": "ml",
+      "aantal": 1,
+      "per_stuk": 1000,
+      "weergave": "1 L"
+    },
+    "prijs": {
+      "bedrag": 3.29,
+      "valuta": "EUR",
+      "bron_tekst": "3.29"
+    },
+    "categorie": [
+      "Frozen",
+      "Dessert"
+    ],
+    "omschrijving": "Vanilla ice cream.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "cream (milk)",
+      "skimmed milk",
+      "sugar",
+      "egg yolk",
+      "vanilla extract"
+    ],
+    "ingredienten_bron_tekst": "cream (milk), skimmed milk, sugar, egg yolk, vanilla extract",
+    "allergenen": {
+      "bevat": [
+        "eggs",
+        "milk"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Milk, egg",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 ml",
+      "energie_kcal": 207,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 ml: 207 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Store at -18 °C",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2025-07-16",
+    "foto": {
+      "url": "/product-images/DH-70020.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Vanilla_bean_ice_cream_(3086700978).jpg",
+      "licentie": "CC BY-SA 2.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "maker": "a.pasquier from bellingham, washington",
+      "credit": "vanilla bean",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Vanilla ice cream; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-80001",
+    "product_naam": "Fresh tomato soup",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 1000,
+      "eenheid": "ml",
+      "aantal": 1,
+      "per_stuk": 1000,
+      "weergave": "1 L"
+    },
+    "prijs": {
+      "bedrag": 3.49,
+      "valuta": "EUR",
+      "bron_tekst": "3.49"
+    },
+    "categorie": [
+      "Soup"
+    ],
+    "omschrijving": "Fresh tomato soup with meatballs.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "tomato",
+      "water",
+      "meatballs (beef, pork, breadcrumbs)",
+      "onion",
+      "cream",
+      "chicken stock"
+    ],
+    "ingredienten_bron_tekst": "tomato, water, meatballs (beef, pork, breadcrumbs), onion, cream, chicken stock",
+    "allergenen": {
+      "bevat": [
+        "gluten",
+        "milk"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten, milk",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 ml",
+      "energie_kcal": 58,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 ml: 58 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated; use within 5 days",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2025-09-25",
+    "foto": {
+      "url": "/product-images/DH-80001.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Tomato_soup_in_a_sourdough_bread_bowl_(20179439271).jpg",
+      "licentie": "CC BY 2.0",
+      "licentie_url": "https://creativecommons.org/licenses/by/2.0",
+      "maker": "Ruth Hartnup from Vancouver, Canada",
+      "credit": "Tomato soup in a sourdough bread bowl",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Fresh tomato soup; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-80002",
+    "product_naam": "Fresh pumpkin soup",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 1000,
+      "eenheid": "ml",
+      "aantal": 1,
+      "per_stuk": 1000,
+      "weergave": "1 L"
+    },
+    "prijs": {
+      "bedrag": 3.49,
+      "valuta": "EUR",
+      "bron_tekst": "3.49"
+    },
+    "categorie": [
+      "Soup"
+    ],
+    "omschrijving": "Fresh pumpkin soup. Ingredients according to the source file: pumpkin, water, onion, cream, vegetable stock, coconut milk.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "pumpkin",
+      "water",
+      "onion",
+      "cream",
+      "vegetable stock",
+      "coconut milk"
+    ],
+    "ingredienten_bron_tekst": "pumpkin, water, onion, cream, vegetable stock, coconut milk",
+    "allergenen": {
+      "bevat": [
+        "milk"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Milk",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": null,
+    "laatst_bijgewerkt": "2024-05-14",
+    "foto": {
+      "url": "/product-images/DH-80002.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Pumpkin_soup_with_seeds_and_croutons_in_Bosnia_and_Herzegovina-bs.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Minja Klarić",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Fresh pumpkin soup; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-80010",
+    "product_naam": "Beef lasagne",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 400,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 400,
+      "weergave": "400 g"
+    },
+    "prijs": {
+      "bedrag": 4.99,
+      "valuta": "EUR",
+      "bron_tekst": "4.99"
+    },
+    "categorie": [
+      "Ready meals"
+    ],
+    "omschrijving": "Oven-ready lasagne with beef.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "pasta (wheat, egg)",
+      "beef",
+      "tomato",
+      "milk",
+      "butter",
+      "flour",
+      "Grana Padano"
+    ],
+    "ingredienten_bron_tekst": "pasta (wheat, egg), beef, tomato, milk, butter, flour, Grana Padano",
+    "allergenen": {
+      "bevat": [
+        "gluten",
+        "eggs",
+        "milk"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten, egg, milk",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 142,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 142 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2025-08-07",
+    "foto": {
+      "url": "/product-images/DH-80010.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Meaty_Lasagna_8of8_(8736299782).jpg",
+      "licentie": "CC BY 2.0",
+      "licentie_url": "https://creativecommons.org/licenses/by/2.0",
+      "maker": "Breville USA",
+      "credit": "Meaty Lasagna 8of8",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Beef lasagne; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-80011",
+    "product_naam": "Quiche Lorraine",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 400,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 400,
+      "weergave": "400 g"
+    },
+    "prijs": {
+      "bedrag": 5.49,
+      "valuta": "EUR",
+      "bron_tekst": "5.49"
+    },
+    "categorie": [
+      "Ready meals"
+    ],
+    "omschrijving": "Quiche Lorraine. Ingredients according to the source file: puff pastry (wheat, butter), egg, cream, bacon, cheese.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "puff pastry (wheat, butter)",
+      "egg",
+      "cream",
+      "bacon",
+      "cheese"
+    ],
+    "ingredienten_bron_tekst": "puff pastry (wheat, butter), egg, cream, bacon, cheese",
+    "allergenen": {
+      "bevat": [
+        "gluten",
+        "eggs",
+        "milk"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten, egg, milk",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "France",
+    "laatst_bijgewerkt": "2023-09-09",
+    "foto": {
+      "url": "/product-images/DH-80011.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Quiche_lorraine_01.JPG",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Arnaud 25",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Quiche Lorraine; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-80012",
+    "product_naam": "Margherita pizza",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 350,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 350,
+      "weergave": "350 g"
+    },
+    "prijs": {
+      "bedrag": 3.29,
+      "valuta": "EUR",
+      "bron_tekst": "3.29"
+    },
+    "categorie": [
+      "Frozen",
+      "Pizza"
+    ],
+    "omschrijving": "Margherita pizza. Ingredients according to the source file: wheat flour, tomato, mozzarella (milk), olive oil, basil, yeast.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "wheat flour",
+      "tomato",
+      "mozzarella (milk)",
+      "olive oil",
+      "basil",
+      "yeast"
+    ],
+    "ingredienten_bron_tekst": "wheat flour, tomato, mozzarella (milk), olive oil, basil, yeast",
+    "allergenen": {
+      "bevat": [
+        "gluten",
+        "milk"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten, milk",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 g",
+      "energie_kcal": 231,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 g: 231 kcal",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Store at -18 °C",
+    "herkomst": "Italy",
+    "laatst_bijgewerkt": "2022-10-21",
+    "foto": {
+      "url": "/product-images/DH-80012.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Margherita_Originale.JPG",
+      "licentie": "CC BY-SA 3.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "maker": "Mario56",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Margherita pizza; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-80020",
+    "product_naam": "Chicken curry wrap",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 190,
+      "eenheid": "g",
+      "aantal": 1,
+      "per_stuk": 190,
+      "weergave": "190 g"
+    },
+    "prijs": {
+      "bedrag": 3.89,
+      "valuta": "EUR",
+      "bron_tekst": "3.89"
+    },
+    "categorie": [
+      "Sandwiches"
+    ],
+    "omschrijving": "Wrap with chicken and curry sauce.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "wheat wrap",
+      "chicken",
+      "curry sauce (egg, mustard)",
+      "lettuce",
+      "carrot"
+    ],
+    "ingredienten_bron_tekst": "wheat wrap, chicken, curry sauce (egg, mustard), lettuce, carrot",
+    "allergenen": {
+      "bevat": [
+        "gluten",
+        "eggs",
+        "mustard"
+      ],
+      "kan_bevatten": null,
+      "bron_tekst": "Gluten, egg, mustard",
+      "status": "dummy source plus ingredient check; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Keep refrigerated; use the same day",
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2025-10-03",
+    "foto": {
+      "url": "/product-images/DH-80020.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Hani_(sandwich).jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "LittleT889",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Chicken curry wrap; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-90001",
+    "product_naam": "Orange juice",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 1000,
+      "eenheid": "ml",
+      "aantal": 1,
+      "per_stuk": 1000,
+      "weergave": "1 L"
+    },
+    "prijs": {
+      "bedrag": 2.19,
+      "valuta": "EUR",
+      "bron_tekst": "2.19"
+    },
+    "categorie": [
+      "Drinks",
+      "Juice"
+    ],
+    "omschrijving": "Orange juice from concentrate.",
+    "omschrijving_status": "original dummy data",
+    "ingredienten": [
+      "orange juice from concentrate",
+      "water"
+    ],
+    "ingredienten_bron_tekst": "orange juice from concentrate, water",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": "None",
+      "status": "not listed in source; ingredient check applied; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": "per 100 ml",
+      "energie_kcal": 45,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": 9,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": "per 100 ml: 45 kcal, sugars 9g",
+      "status": "parsed from dummy source"
+    },
+    "bewaren": "Refrigerate after opening",
+    "herkomst": "Brazil",
+    "laatst_bijgewerkt": "2025-06-02",
+    "foto": {
+      "url": "/product-images/DH-90001.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Orange_juice_1_edit1.jpg",
+      "licentie": "Public domain",
+      "licentie_url": null,
+      "maker": "Agency of the United States Department of Agriculture Edited Version by: Arad",
+      "credit": "USDA",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Orange juice; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-90002",
+    "product_naam": "Cloudy apple juice",
+    "merk": "Delhaize Bio",
+    "inhoud": {
+      "hoeveelheid": 1000,
+      "eenheid": "ml",
+      "aantal": 1,
+      "per_stuk": 1000,
+      "weergave": "1 L"
+    },
+    "prijs": {
+      "bedrag": 2.79,
+      "valuta": "EUR",
+      "bron_tekst": "2.79"
+    },
+    "categorie": [
+      "Organic",
+      "Drinks"
+    ],
+    "omschrijving": "Cloudy apple juice. Ingredients according to the source file: apple juice*. *organic.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "apple juice*. *organic"
+    ],
+    "ingredienten_bron_tekst": "apple juice*. *organic",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": null,
+      "status": "inferred from ingredients; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2024-03-30",
+    "foto": {
+      "url": "/product-images/DH-90002.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Cider_and_apple_juice.jpg",
+      "licentie": "CC BY-SA 3.0",
+      "licentie_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "maker": null,
+      "credit": null,
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Cloudy apple juice; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  },
+  {
+    "sku": "DH-90010",
+    "product_naam": "Sparkling water",
+    "merk": "Delhaize",
+    "inhoud": {
+      "hoeveelheid": 9000,
+      "eenheid": "ml",
+      "aantal": 6,
+      "per_stuk": 1500,
+      "weergave": "6 × 1.5 L"
+    },
+    "prijs": {
+      "bedrag": 2.94,
+      "valuta": "EUR",
+      "bron_tekst": "2.94"
+    },
+    "categorie": [
+      "Drinks",
+      "Water"
+    ],
+    "omschrijving": "Sparkling water. Ingredients according to the source file: water, carbon dioxide.",
+    "omschrijving_status": "derived from product name and ingredients",
+    "ingredienten": [
+      "water",
+      "carbon dioxide"
+    ],
+    "ingredienten_bron_tekst": "water, carbon dioxide",
+    "allergenen": {
+      "bevat": [],
+      "kan_bevatten": null,
+      "bron_tekst": "None",
+      "status": "not listed in source; ingredient check applied; not verified against the label"
+    },
+    "voedingswaarde": {
+      "basis": null,
+      "energie_kcal": null,
+      "vet_g": null,
+      "verzadigd_vet_g": null,
+      "koolhydraten_g": null,
+      "suikers_g": null,
+      "vezels_g": null,
+      "eiwit_g": null,
+      "zout_g": null,
+      "omega3_g": null,
+      "bron_tekst": null,
+      "status": "parsed from dummy source"
+    },
+    "bewaren": null,
+    "herkomst": "Belgium",
+    "laatst_bijgewerkt": "2021-08-26",
+    "foto": {
+      "url": "/product-images/DH-90010.jpg",
+      "bron": "Wikimedia Commons",
+      "bronpagina": "https://commons.wikimedia.org/wiki/File:Club_Soda_08.jpg",
+      "licentie": "CC BY-SA 4.0",
+      "licentie_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "maker": "Jeangagnon",
+      "credit": "Own work",
+      "illustratief": true,
+      "alt": "AI-generated illustrative image of Sparkling water; not the official packaging."
+    },
+    "status_datasets": "dummy data; not verified online",
+    "mogelijke_dubbelgangers": []
+  }
+]
